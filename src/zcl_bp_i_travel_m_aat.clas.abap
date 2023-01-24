@@ -1,11 +1,13 @@
-CLASS zcl_bp_i_travel_m_AAT DEFINITION
-PUBLIC
-ABSTRACT
-FINAL
-FOR BEHAVIOR OF ZI_Travel_M_AAT.
+class ZCL_BP_I_TRAVEL_M_AAT definition
+  public
+  for behavior of ZI_TRAVEL_M_AAT .
 
+public section.
+protected section.
+private section.
 ENDCLASS.
 
-CLASS zcl_bp_i_travel_m_AAT IMPLEMENTATION.
-ENDCLASS.
 
+
+CLASS ZCL_BP_I_TRAVEL_M_AAT IMPLEMENTATION.
+ENDCLASS.
